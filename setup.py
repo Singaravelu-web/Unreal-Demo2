@@ -12,7 +12,7 @@ with open(abspath(join(dirname(__file__), "ue4docker", "version.py"))) as versio
     )
 
 setup(
-    name="ue4-docker",
+    name="demo-ue4-docker",
     version=__version__,
     description="Windows and Linux containers for Unreal Engine 4",
     long_description=__readme__,
