@@ -28,9 +28,9 @@ setup(
         "Environment :: Console",
     ],
     keywords="epic unreal engine docker",
-    url="http://github.com/adamrehn/ue4-docker",
-    author="Adam Rehn",
-    author_email="adam@adamrehn.com",
+    url="https://github.com/Singaravelu-web/Unreal-Demo2",
+    author="Velu Jay",
+    author_email="velujay@gmail.com",
     license="MIT",
     packages=[
         "ue4docker",
